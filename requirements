@@ -1,12 +1,2 @@
-scikit-learn==1.3.2
-transformers==4.38.2
-spacy==3.5.3
-scispacy==0.5.1
-https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.1/en_ner_bc5cdr_md-0.5.1.tar.gz
 
-
-bot training using naive bayes and mental healthbot : sahithi
-healh care appointments and disease pred: rishitha
-Spell Correction and symptoms fetching from user input[includes synonyms and fuzzy words]: laxmi
-Hospital gendral information[ identifying entities mapping] and disease precaution: lahari
 
