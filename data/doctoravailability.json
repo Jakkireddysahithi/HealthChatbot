@@ -1,0 +1,215 @@
+{
+    "cardiology": [
+      {
+        "name": "Dr. Thomas Bennett",
+        "availability": {
+          "Mon": "10am–1pm",
+          "Wed": "2pm–5pm",
+          "Fri": "10am–12pm"
+        }
+      },
+      {
+        "name": "Dr. Meera Iyer",
+        "availability": {
+          "Tue": "11am–2pm",
+          "Thu": "1pm–4pm"
+        }
+      }
+    ],
+    "neurology": [
+      {
+        "name": "Dr. Sanjay Rao",
+        "availability": {
+          "Mon": "1pm–4pm",
+          "Wed": "10am–1pm",
+          "Fri": "2pm–5pm"
+        }
+      },
+      {
+        "name": "Dr. Alicia Kim",
+        "availability": {
+          "Tue": "10am–2pm",
+          "Thu": "11am–3pm"
+        }
+      }
+    ],
+    "ent": [
+      {
+        "name": "Dr. William Grant",
+        "availability": {
+          "Mon": "9am–12pm",
+          "Wed": "2pm–5pm",
+          "Fri": "10am–1pm"
+        }
+      },
+      {
+        "name": "Dr. Kavya Nair",
+        "availability": {
+          "Tue": "1pm–4pm",
+          "Thu": "10am–2pm"
+        }
+      }
+    ],
+    "urology": [
+      {
+        "name": "Dr. Harish Kulkarni",
+        "availability": {
+          "Mon": "2pm–5pm",
+          "Wed": "11am–2pm",
+          "Fri": "1pm–3pm"
+        }
+      },
+      {
+        "name": "Dr. Emily Reyes",
+        "availability": {
+          "Tue": "10am–1pm",
+          "Thu": "1pm–4pm"
+        }
+      }
+    ],
+    "radiology": [
+      {
+        "name": "Dr. Ian Walker",
+        "availability": {
+          "Mon": "10am–12pm",
+          "Wed": "1pm–3pm",
+          "Fri": "11am–2pm"
+        }
+      },
+      {
+        "name": "Dr. Anjali Banerjee",
+        "availability": {
+          "Tue": "2pm–5pm",
+          "Thu": "9am–12pm"
+        }
+      }
+    ],
+    "nutrition": [
+      {
+        "name": "Dr. Laila Hassan",
+        "availability": {
+          "Mon": "9am–11am",
+          "Wed": "10am–12pm",
+          "Fri": "1pm–3pm"
+        }
+      },
+      {
+        "name": "Dr. George Lee",
+        "availability": {
+          "Tue": "11am–1pm",
+          "Thu": "2pm–4pm"
+        }
+      }
+    ],
+    "general_medicine": [
+      {
+        "name": "Dr. Rachel Smith",
+        "availability": {
+          "Mon": "10am–2pm",
+          "Wed": "12pm–4pm",
+          "Fri": "10am–1pm"
+        }
+      },
+      {
+        "name": "Dr. James Allen",
+        "availability": {
+          "Tue": "9am–12pm",
+          "Thu": "1pm–5pm"
+        }
+      },
+      {
+        "name": "Dr. Priya Kapoor",
+        "availability": {
+          "Mon": "2pm–6pm",
+          "Wed": "9am–12pm",
+          "Fri": "3pm–6pm"
+        }
+      }
+    ],
+    "dermatology": [
+      {
+        "name": "Dr. Neha Patel",
+        "availability": {
+          "Mon": "11am–3pm",
+          "Wed": "1pm–4pm",
+          "Fri": "10am–12pm"
+        }
+      },
+      {
+        "name": "Dr. Kevin Zhou",
+        "availability": {
+          "Tue": "10am–2pm",
+          "Thu": "2pm–6pm"
+        }
+      }
+    ],
+    "mental_health": [
+      {
+        "name": "Dr. Linda Nguyen",
+        "availability": {
+          "Tue": "10am–2pm",
+          "Thu": "2pm–6pm"
+        }
+      },
+      {
+        "name": "Dr. Arjun Das",
+        "availability": {
+          "Mon": "1pm–5pm",
+          "Wed": "10am–1pm",
+          "Fri": "11am–3pm"
+        }
+      }
+    ],
+    "gynecology": [
+      {
+        "name": "Dr. Ana Rivera",
+        "availability": {
+          "Mon": "9am–1pm",
+          "Wed": "11am–3pm",
+          "Fri": "1pm–4pm"
+        }
+      },
+      {
+        "name": "Dr. Riya Sharma",
+        "availability": {
+          "Tue": "10am–1pm",
+          "Thu": "12pm–4pm"
+        }
+      }
+    ],
+    "pediatrics": [
+      {
+        "name": "Dr. Sofia Khan",
+        "availability": {
+          "Mon": "9am–12pm",
+          "Tue": "1pm–4pm",
+          "Thu": "10am–2pm"
+        }
+      },
+      {
+        "name": "Dr. Jack Thompson",
+        "availability": {
+          "Wed": "11am–3pm",
+          "Fri": "9am–1pm"
+        }
+      }
+    ],
+    "orthopedics": [
+      {
+        "name": "Dr. Elena Garcia",
+        "availability": {
+          "Tue": "9am–12pm",
+          "Thu": "1pm–5pm"
+        }
+      },
+      {
+        "name": "Dr. Karan Mehta",
+        "availability": {
+          "Mon": "10am–2pm",
+          "Wed": "12pm–4pm",
+          "Fri": "1pm–4pm"
+        }
+      }
+    ]
+  }
+  
